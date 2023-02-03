@@ -1,0 +1,7 @@
+<Route path= "/" element={<Newsbox pageSize={18} country={"us"} Categories={"Business"}</Route>
+<Route path= "/" element={<Newsbox pageSize={18} country={"us"} Categories={"Entertainment"}</Route>
+<Route path= "/" element={<Newsbox pageSize={18} country={"us"} Categories={"General"}</Route>
+<Route path= "/" element={<Newsbox pageSize={18} country={"us"} Categories={"Science"}</Route>
+<Route path= "/" element={<Newsbox pageSize={18} country={"us"} Categories={"Health"}</Route>
+<Route path= "/" element={<Newsbox pageSize={18} country={"us"} Categories={"Sports"}</Route>
+<Route path= "/" element={<Newsbox pageSize={18} country={"us"} Categories={"Technology"}</Route>
